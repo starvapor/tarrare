@@ -67,7 +67,7 @@ Just choose blank activity. Activities are akin to pages, or what is going on an
 and leave default names so everyone is using the same jargon. Click Finish.
 
 ##Etc
-The rest is up to your own preference. Make a virtual device, and allocate more RAM than it has as default. Use `use CPU` or `use snapshot` to speed things up when setting it up. Since I was just following the tutorial, I won't repeat anything further. Setup for my example app [Tarrare](https://github.com/starvapor/tarrare) is in the readme of the main repo. All the source and instructions are going to be put on [github.com/starvapor/tarrare](https://github.com/starvapor/tarrare) if you want to see. We'll also upload just the `.apk` so you can test on your phone if you want. :)
+The rest is up to your own preference. Make a virtual device, and allocate more RAM than it has as default. Use `Use Host GPU` or `Snapshot` to speed things up when setting it up. Since I was just following the tutorial, I won't repeat anything further. Setup for my example app [Tarrare](https://github.com/starvapor/tarrare) is in the readme of the main repo. All the source and instructions are going to be put on [github.com/starvapor/tarrare](https://github.com/starvapor/tarrare) if you want to see. We'll also upload just the `.apk` so you can test on your phone if you want. :)
 
 #`</notes>`
 
