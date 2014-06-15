@@ -55,6 +55,9 @@ The default workspace is fine.
 
 I'm doing this tutorial, so I'm choosing a subfolder of the project for the game.
 
+![icons](conf_icon.png 'Configure icon set')
+Choose an icon!
+
 ![create activity](activity_0.png 'Choose Activity')
 
 Just choose blank activity. Activities are akin to pages, or what is going on and visible. If the kids already have menu items chosen or something, tell them to have at it, but for consistency it might be easier to just tell them to click Next.
